@@ -1,0 +1,10 @@
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\BL.Fashion.dll.config
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\BL.Fashion.dll
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\BL.Fashion.pdb
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\EntityFramework.dll
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\EntityFramework.xml
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\obj\Debug\BL.Fashion.csprojResolveAssemblyReference.cache
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\obj\Debug\BL.Fashion.dll
+C:\Users\50431\Desktop\Fashion-store-main\Fashion-Station-main\Tienda\BL.Fashion\obj\Debug\BL.Fashion.pdb
